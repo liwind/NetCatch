@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.imooc.com	TRUE	/	FALSE	1519219317	imooc_isnew	1
+.imooc.com	TRUE	/	FALSE	1519219317	imooc_isnew_ct	1487683317
+.imooc.com	TRUE	/	FALSE	1519219317	imooc_uuid	0c20586e-7788-4e8b-a1a9-acc366425870
+www.imooc.com	FALSE	/	FALSE		PHPSESSID	pnt5ro6ei2va6stegs86ond1r2
